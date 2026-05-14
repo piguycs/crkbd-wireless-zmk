@@ -12,7 +12,7 @@
     behaviors {
         hm: hm {
             compatible = "zmk,behavior-hold-tap";
-            label = "HM";
+            label = "Homerow Mods";
             #binding-cells = <2>;
             tapping-term-ms = <250>;
             quick-tap-ms = <175>;
